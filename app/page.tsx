@@ -8,7 +8,6 @@ import Footer from '../components/Footer/Footer';
 export default function Home() {
   return (
     <>
-      <h1>yo</h1>
       <Header />
       <SponsorBar />
       <HeroSection />

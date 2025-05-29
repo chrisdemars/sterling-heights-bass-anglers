@@ -12,8 +12,7 @@ export default function AboutSection() {
               About Our Club
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Founded in 1989, the Sterling Heights Bass Anglers has been bringing
-              together passionate bass fishing enthusiasts from across Southeast Michigan.
+              Formed in 1974, the Sterling Heights Bass Anglers (SHBA) is the second oldest BASS Federation club in the state of Michigan. The club is not accepting new members for the 2025 season.
             </p>
           </div>
 
